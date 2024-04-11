@@ -31,3 +31,7 @@ body {
     width: 150px;
     margin: 50px;
 }
+.bg-body-tertiary{
+    background-color: #102536 !important;
+    color: #ffc6a0 !important;
+}

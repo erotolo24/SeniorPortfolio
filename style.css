@@ -35,3 +35,7 @@ body {
     background-color: #0f324e !important;
     color: #ffc6a0 !important;
 }
+
+.img {
+    display: flex;
+}

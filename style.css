@@ -30,6 +30,7 @@ body {
     height: 150px;
     width: 150px;
     margin: 30px;
+    text-align: center;
 }
 .bg-body-tertiary{
     background-color: #0f324e !important;

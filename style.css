@@ -33,8 +33,10 @@ body {
     border-radius: 50%;
     height: 150px;
     width: 150px;
-    margin: 30px;
     text-align: center;
+    border: 5px solid #000000; 
+    padding: 0px; 
+    margin: 10px;
 }
 .bg-body-tertiary{
     background-color: #ff2d2d83 !important;
@@ -67,4 +69,10 @@ h5 {
 
 h6 {
     color: white;
+}
+
+.img {
+    border: 5px solid #000000; 
+    padding: 0px; 
+    margin: 5px;
 }
